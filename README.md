@@ -24,15 +24,15 @@ The following scenario / functionality is covered:
  
 ## Documentation
 
- * For a full description of available functionality, read the [JavaDoc](https://developer.github.io/XoxInternals/index.html)
- * The relevant functionality is exposed in [```XoxManagerImpl.java```](https://developer.github.io/XoxInternals/eu/somethingsecret/xoxinternals/controller/XoxManagerImpl.html).
+ * For a full description of available functionality, read the [JavaDoc](https://anonymous4doubleblinded.github.io/XoxInternals/index.html)
+ * The relevant functionality is exposed in [```XoxManagerImpl.java```](https://anonymous4doubleblinded.github.io/XoxInternals/eu/anonymous4doubleblinded/xoxinternals/controller/XoxManagerImpl.html).
 
 ## Usage
 
 On execution, the game will simply print a listing of an intial test setup.
 
  1. Get the sources:  
-```git clone https://github.com/somethingsecret/XoxInternals.git```
+```git clone https://github.com/anonymous4doubleblinded/XoxInternals.git```
 
  2. Compile the project with maven. This provides you with a self contained ```jar``` in the ```target```folder:  
 ```mvn clean install```
@@ -43,7 +43,7 @@ On execution, the game will simply print a listing of an intial test setup.
 ## Contact / Pull Requests
 
  * Author: [Anonymous Researcher](mailto:anonymous.researcher@university.country?subject=XoxInternals&body=XoxInternals)
- * Github: developer
+ * Github: anonymous4doubleblinded
  * Webpage: https://www.cs.university.country/~secretidentifier
  * License: [MIT](https://opensource.org/licenses/MIT)
 
