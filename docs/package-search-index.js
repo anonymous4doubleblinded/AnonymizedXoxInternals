@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"eu.somethingsecret.xoxinternals"},{"l":"eu.somethingsecret.xoxinternals.controller"},{"l":"eu.somethingsecret.xoxinternals.model"}]
